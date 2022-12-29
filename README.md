@@ -1,4 +1,8 @@
 # Project Euler
+Level 0
+Progress 9/25
+34.457% percentile
+
 
 ~1. Multiples of 3 or 5~\
 ~2. Even Fibonacci numbers~\
