@@ -12,8 +12,8 @@ def find_primes(n):
             for j in range(i ** 2, n+1, i):
                 nums[j] = False
     primes = [index for index, item in enumerate(nums) if item]
-    return primes
+    return primes[2:]
 
 
-print(find_primes(ceil(estimate(10001)))[10002])
-
+if __name__ == "__main__":
+    print(find_primes(ceil(estimate(10001)))[10000])
