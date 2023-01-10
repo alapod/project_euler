@@ -1,7 +1,7 @@
 # Project Euler
   *Level 0*\
-  *Progress 11/25*\
-  *27.949% percentile*
+  *Progress 12/25*\
+  *25.328% percentile*
 
 
 ~1. Multiples of 3 or 5~\
@@ -15,7 +15,7 @@
 ~9.	Special Pythagorean triplet~\
 ~10.	Summation of primes~\
 ~11.	Largest product in a grid~\
-12.	Highly divisible triangular number\
+~12.	Highly divisible triangular number~\
 13.	Large sum\
 14.	Longest Collatz sequence\
 15.	Lattice paths\
