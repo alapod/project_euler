@@ -1,7 +1,7 @@
 # Project Euler
   *Level 0*\
-  *Progress 13/25*\
-  *top 23.517%*
+  *Progress 14/25*\
+  *top 22.079%*
 
 
 ~1. Multiples of 3 or 5~\
