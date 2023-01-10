@@ -1,7 +1,7 @@
 # Project Euler
   *Level 0*\
-  *Progress 14/25*\
-  *top 22.079%*
+  *Progress 15/25*\
+  *top 20.601%*
 
 
 ~1. Multiples of 3 or 5~\
@@ -19,7 +19,7 @@
 ~13.	Large sum~\
 ~14.	Longest Collatz sequence~\
 15.	Lattice paths\
-16.	Power digit sum\
+~16.	Power digit sum~\
 17.	Number letter counts\
 18.	Maximum path sum I\
 19.	Counting Sundays\
