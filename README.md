@@ -1,7 +1,7 @@
 # Project Euler
   *Level 0*\
-  *Progress 13/25*\
-  *top 23.517%*
+  *Progress 14/25*\
+  *top 22.079%*
 
 
 ~1. Multiples of 3 or 5~\
@@ -17,7 +17,7 @@
 ~11.	Largest product in a grid~\
 ~12.	Highly divisible triangular number~\
 ~13.	Large sum~\
-14.	Longest Collatz sequence\
+~14.	Longest Collatz sequence~\
 15.	Lattice paths\
 16.	Power digit sum\
 17.	Number letter counts\
