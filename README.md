@@ -1,7 +1,7 @@
 # Project Euler
   *Level 0*\
-  *Progress 15/25*\
-  *top 20.601%*
+  *Progress 16/25*\
+  *top 19.353%%*
 
 
 ~1. Multiples of 3 or 5~\
@@ -23,7 +23,7 @@
 17.	Number letter counts\
 18.	Maximum path sum I\
 19.	Counting Sundays\
-20.	Factorial digit sum\
+~20.	Factorial digit sum~\
 21.	Amicable numbers\
 22.	Names scores\
 23.	Non-abundant sums\
