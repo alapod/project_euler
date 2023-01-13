@@ -1,7 +1,7 @@
 # Project Euler
   *Level 0*\
-  *Progress 16/25*\
-  *top 19.353%%*
+  *Progress 17/25*\
+  *top 18.105%%%*
 
 
 ~1. Multiples of 3 or 5~\
@@ -28,4 +28,4 @@
 22.	Names scores\
 23.	Non-abundant sums\
 24.	Lexicographic permutations\
-25.	1000-digit Fibonacci number
+~25.	1000-digit Fibonacci number~
