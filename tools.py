@@ -1,4 +1,5 @@
 from time import time
+import math
 
 
 def timer_func(func):
@@ -9,3 +10,10 @@ def timer_func(func):
         print(f'Took {t2 - t1} seconds to run')
         return res
     return wrapper_func
+
+def fibonacci_fi(n):
+    fi = 0.5 * (1 + math.sqrt(5))
+    psi = 0.5 * (1 - math.sqrt(5))
+    return round((fi ** n - psi ** n) / math.sqrt(5))
+
+
