@@ -1,4 +1,4 @@
-from math import sqrt
+from tools import get_divisors
 
 
 def get_triangle_number(n):
@@ -6,12 +6,7 @@ def get_triangle_number(n):
 
 
 def get_divisors_number(n):
-    divisors = []
-    for i in range(1, round(sqrt(n))):
-        if n % i == 0:
-            divisors.append(i)
-            divisors.append(n / i)
-    return len(divisors)
+    return len(get_divisors(n))
 
 
 def get_highly_divisible():

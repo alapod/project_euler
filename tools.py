@@ -17,3 +17,10 @@ def fibonacci_fi(n):
     return round((fi ** n - psi ** n) / math.sqrt(5))
 
 
+def get_divisors(n):
+    divisors = []
+    for i in range(1, round(math.sqrt(n))):
+        if n % i == 0:
+            divisors.append(i)
+            divisors.append(n / i)
+    return divisors
