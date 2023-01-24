@@ -1,6 +1,7 @@
 # Project Euler
+
 [Project Euler](https://projecteuler.net/archive) is a website dedicated to a series of computational problems intended to be solved with computer programs.\
-Example: What is the index of the first term in the Fibonacci sequence to contain 1000 digits? (task 25)
+*Example: What is the index of the first term in the Fibonacci sequence to contain 1000 digits? (task 25)*
   
 ### Solved more tasks that 83.082% of users
 <img src="https://projecteuler.net/cache/statistics_problems_graph.png" alt="graph" width="500"/>
