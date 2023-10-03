@@ -5,7 +5,7 @@
 
 Here are my solutions with brief explanations:
 
-1. Multiples of 3 or 5 [task](https://projecteuler.net/problem=1) [solution](https://github.com/alapod/project_euler/blob/main/task1.py)\
+1. Multiples of 3 or 5 - [task](https://projecteuler.net/problem=1) - [solution](https://github.com/alapod/project_euler/blob/main/task1.py)\
 ~2. Even Fibonacci numbers~\
 ~3. Largest prime factor~\
 ~4. Largest palindrome product~\
